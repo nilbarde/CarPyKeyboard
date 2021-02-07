@@ -1,0 +1,11 @@
+/20014010013800\n
+/200140
+/   = separation
+2   = gear
+0   = ind
+0   = separation
+140 = 140 + steer
+100 = 100 + brake(0,100)
+138 = 100 + accln(0,100)
+00  = separation
+\n  = separation
